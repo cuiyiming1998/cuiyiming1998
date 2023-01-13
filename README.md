@@ -23,7 +23,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <a href="https://github.com/cuiyiming1998">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuiyiming1998&layout=compact&langs_count=8&theme=vue"/>
+   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cuiyiming1998&layout=compact&langs_count=8&theme=react"/>
 </a>
 
 <img src="https://imgur.com/rilHVxA.png"/>
