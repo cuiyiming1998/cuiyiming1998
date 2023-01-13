@@ -21,11 +21,11 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
 ### ⚙️ GitHub Analytics
-<div style="display: flex;">
    <a href="https://github.com/cuiyiming1998">
       <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?       username=cuiyiming1998&layout=compact&langs_count=8&theme=react"/>
    </a>
-   [![GitHub Streak](https://streak-stats.demolab.com?user=cuiyiming1998&theme=tokyonight&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
-</div>
+
+### 📚 Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=cuiyiming1998&theme=tokyonight&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
 <img src="https://imgur.com/rilHVxA.png"/>
