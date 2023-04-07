@@ -4,28 +4,27 @@
 
 <p>:school:  Graduated from HEBNU (Software Engineering)</p>
 <p>:rocket:  Focusing on Frontend (Vue && React)</p>
+<p>:pencil2:  A Vimer</p>
 <p>:basketball:  Basketball (Golden State Warriors :trophy:)</p>
 
 ### 🛠️ Languages and Tools:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=Vue.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![JavaScript](https://img.shields.io/badge/-JavaScript-9CC5FB?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-9CC5FB?style=flat-square&logo=typescript)
+![Vue](https://img.shields.io/badge/-Vue-9CC5FB?style=flat-square&logo=Vue.js)
+![Vite](https://img.shields.io/badge/-Vite-9CC5FB?style=flat-square&logo=vite)
+![Vitest](https://img.shields.io/badge/-Vitest-9CC5FB?style=flat-square&logo=vitest)
+![Vim](https://img.shields.io/badge/-Vim-9CC5FB?style=flat-square&logo=vim)
+![React](https://img.shields.io/badge/-React-9CC5FB?style=flat-square&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-9CC5FB?style=flat-square&logo=Redux)
+![Nodejs](https://img.shields.io/badge/-Nodejs-9CC5FB?style=flat-square&logo=Node.js)
 
 ### ⚙️ GitHub Analytics
    <a href="https://github.com/cuiyiming1998">
-     <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cuiyiming1998&layout=compact&langs_count=8&theme=react"/>
+     <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cuiyiming1998&layout=compact&langs_count=8&theme=vue"/>
    </a>
 
 ### 📚 Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=cuiyiming1998&theme=tokyonight&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=cuiyiming1998&theme=vue&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
 <img src="https://imgur.com/rilHVxA.png"/>
