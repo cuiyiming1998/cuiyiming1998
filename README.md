@@ -28,14 +28,14 @@
      <img height="200px;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cuiyiming1998&layout=compact&langs_count=8&theme=vue"/>
     </a>
   </div>
-  <div style="flex: 1;">
+  <!-- <div style="flex: 1;">
     <h3>
       📚 Streak Stats
     </h3>
     <a href="https://github.com/cuiyiming1998">
      <img height="200px;" src="https://streak-stats.demolab.com?user=cuiyiming1998&theme=vue&date_format=%5BY.%5Dn.j"/>
     </a>
-  </div>
+  </div> -->
 </div>
 
-<img style="margin-top: 20px;" src="https://imgur.com/rilHVxA.png"/>
+<img style="margin-top: 30px;" src="https://imgur.com/rilHVxA.png"/>
