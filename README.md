@@ -13,10 +13,10 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-9CC5FB?style=flat-square&logo=typescript)
 ![Vue](https://img.shields.io/badge/-Vue-9CC5FB?style=flat-square&logo=Vue.js)
 ![Vite](https://img.shields.io/badge/-Vite-9CC5FB?style=flat-square&logo=vite)
-![Vitest](https://img.shields.io/badge/-Vitest-9CC5FB?style=flat-square&logo=vitest)
-![Vim](https://img.shields.io/badge/-Vim-9CC5FB?style=flat-square&logo=vim)
+![Vitest](https://img.shields.io/badge/-Vitest-9CC5FB?style=flat-square&logo=vitest&logoColor=success)
+![Vim](https://img.shields.io/badge/-Vim-9CC5FB?style=flat-square&logo=vim&logoColor=success)
 ![React](https://img.shields.io/badge/-React-9CC5FB?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-9CC5FB?style=flat-square&logo=Redux)
+![Redux](https://img.shields.io/badge/-Redux-9CC5FB?style=flat-square&logo=Redux&logoColor=FF69B4)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-9CC5FB?style=flat-square&logo=Node.js)
 
 <div style="display: flex;">
