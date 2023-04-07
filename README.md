@@ -19,12 +19,23 @@
 ![Redux](https://img.shields.io/badge/-Redux-9CC5FB?style=flat-square&logo=Redux)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-9CC5FB?style=flat-square&logo=Node.js)
 
-### ⚙️ GitHub Analytics
-   <a href="https://github.com/cuiyiming1998">
-     <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cuiyiming1998&layout=compact&langs_count=8&theme=vue"/>
-   </a>
+<div style="display: flex;">
+  <div style="flex: 1;">
+    <h3>
+      ⚙️ GitHub Analytics
+    </h3>
+    <a href="https://github.com/cuiyiming1998">
+     <img height="200px;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cuiyiming1998&layout=compact&langs_count=8&theme=vue"/>
+    </a>
+  </div>
+  <div style="flex: 1;">
+    <h3>
+      📚 Streak Stats
+    </h3>
+    <a href="https://github.com/cuiyiming1998">
+     <img height="200px;" src="https://streak-stats.demolab.com?user=cuiyiming1998&theme=vue&date_format=%5BY.%5Dn.j"/>
+    </a>
+  </div>
+</div>
 
-### 📚 Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=cuiyiming1998&theme=vue&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
-
-<img src="https://imgur.com/rilHVxA.png"/>
+<img style="margin-top: 20px;" src="https://imgur.com/rilHVxA.png"/>
