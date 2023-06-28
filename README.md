@@ -17,6 +17,7 @@
 ![Vim](https://img.shields.io/badge/-Vim-9CC5FB?style=flat-square&logo=vim&logoColor=success)
 ![React](https://img.shields.io/badge/-React-9CC5FB?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-9CC5FB?style=flat-square&logo=Redux&logoColor=FF69B4)
+![Rust](https://img.shields.io/badge/-Rust-9CC5FB?style=flat-square&logo=Rust)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-9CC5FB?style=flat-square&logo=Node.js)
 
 <div style="display: flex;">
