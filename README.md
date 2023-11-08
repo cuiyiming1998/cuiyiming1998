@@ -1,4 +1,12 @@
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+<div align="center">
+  <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=500&lines=console.log('Hello+World!');cymYoung" alt="Typing SVG" /></a>
+</div>
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
+</div>
+
+
 
 ## Young (Him/He) 🌻
 
