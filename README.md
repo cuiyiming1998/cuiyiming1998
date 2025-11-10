@@ -33,9 +33,6 @@
     <h3>
       ⚙️ GitHub Analytics
     </h3>
-    <a href="https://github.com/cuiyiming1998">
-     <img height="200px;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cuiyiming1998&layout=compact&langs_count=8&theme=vue"/>
-    </a>
   </div>
   <!-- <div style="flex: 1;">
     <h3>
